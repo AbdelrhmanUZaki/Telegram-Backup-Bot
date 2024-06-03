@@ -47,7 +47,7 @@ To run the bot, simply execute the `backup_bot.py` script. It will start listeni
 python backup_bot.py
 ```
 
-This will start the bot and prompt you for any required bot authentication.
+This will start the bot and prompt you for bot authentication.
 
 Once the authentication is completed, you can run the bot in the background using the following command:
 
