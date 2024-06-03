@@ -54,3 +54,6 @@ Once the authentication is completed, you can run the bot in the background usin
 ```bash
 python backup_bot.py &
 ```
+
+Note: Azure for Students offers $100 in credits, which can be used within 12 months on most Azure products. You can create a virtual machine with 0.5GB or 1GB RAM and run the bot on it for continuous operation.
+
