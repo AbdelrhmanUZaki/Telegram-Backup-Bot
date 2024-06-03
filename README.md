@@ -12,6 +12,7 @@ You can install the dependencies using the following commands:
 
 ```bash
 pip3 install -U pyrofork tgcrypto
+```
 
 ## Setup
 
@@ -44,6 +45,7 @@ To run the bot, simply execute the `backup_bot.py` script. It will start listeni
 
 ```bash
 python backup_bot.py
+```
 
 This will start the bot and prompt you for any required bot authentication.
 
@@ -51,3 +53,4 @@ Once the authentication is completed, you can run the bot in the background usin
 
 ```bash
 python backup_bot.py &
+```
