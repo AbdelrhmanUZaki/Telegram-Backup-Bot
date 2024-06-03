@@ -32,7 +32,7 @@ Before running this script, make sure to obtain the following credentials:
   - Obtain the numeric ID of the channel or group.
   - You can get the ID by adding the BotFather to your channel/group and using the `/my_id` command, or use the [@username_to_id_bot](https://t.me/username_to_id_bot) and input the username of your channel/group to get its numeric ID.
 
-Once you have obtained these credentials, replace the placeholder values in the `config.py` file with your actual credentials.
+Once you have obtained these credentials, rename the `config_example.py` file to `config.py`, and set your personal credentials values.
 
 ## Usage
 
