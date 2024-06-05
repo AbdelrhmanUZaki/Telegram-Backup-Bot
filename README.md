@@ -44,7 +44,7 @@ Once you have obtained these credentials, rename the `config_example.py` file to
 To run the bot, simply execute the `backup_bot.py` script. It will start listening for messages and relaying them to the configured destination channels.
 
 ```bash
-python backup_bot.py
+python3 backup_bot.py
 ```
 
 This will start the bot and prompt you for bot authentication.
@@ -52,7 +52,7 @@ This will start the bot and prompt you for bot authentication.
 Once the authentication is completed, you can run the bot in the background using the following command:
 
 ```bash
-python backup_bot.py &
+python3 backup_bot.py &
 ```
 
 Note: Azure for Students offers $100 in credits, which can be used within 12 months on most Azure products. You can create a virtual machine with 0.5GB or 1GB RAM and run the bot on it for continuous operation.
